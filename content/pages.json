@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "pg-1",
+    "path": "/home",
+    "type": "page",
+    "title": "Home",
+    "seoTitle": "Plasterers Sydney | Plastering & Gyprock Repairs | All Walls",
+    "seoDescription": "Sydney plasterers for walls and ceilings: ceiling repairs, gyprock and plasterboard, cornice and skim coating, finished flat and paint ready.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "updatedAt": "2026-10-01T23:50:09.597Z",
+    "updatedBy": "vipin",
+    "createdAt": "2026-10-01T23:50:09.597Z",
+    "createdBy": "vipin"
+  }
+]
