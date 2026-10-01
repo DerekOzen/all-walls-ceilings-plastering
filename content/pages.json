@@ -1,7 +1,7 @@
 [
   {
     "id": "pg-1",
-    "path": "/home",
+    "path": "/",
     "type": "page",
     "title": "Home",
     "seoTitle": "Plasterers Sydney | Plastering & Gyprock Repairs | All Walls",
@@ -10,9 +10,10 @@
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
     "status": "published",
-    "updatedAt": "2026-10-01T23:51:21.560Z",
+    "updatedAt": "2026-10-01T23:51:36.656Z",
     "updatedBy": "vipin",
     "createdAt": "2026-10-01T23:50:09.597Z",
-    "createdBy": "vipin"
+    "createdBy": "vipin",
+    "isHome": true
   }
 ]
