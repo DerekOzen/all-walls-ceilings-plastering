@@ -288,12 +288,6 @@
     "at": "2026-10-02T06:31:31.179Z"
   },
   {
-    "from": "/services",
-    "to": "/",
-    "code": 301,
-    "at": "2026-10-02T06:31:31.179Z"
-  },
-  {
     "from": "/services/sagging-ceiling-repairs",
     "to": "/",
     "code": 301,
