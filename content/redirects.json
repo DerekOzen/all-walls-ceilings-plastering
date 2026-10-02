@@ -306,12 +306,6 @@
     "at": "2026-10-02T06:31:31.179Z"
   },
   {
-    "from": "/services/renovation-plastering",
-    "to": "/",
-    "code": 301,
-    "at": "2026-10-02T06:31:31.179Z"
-  },
-  {
     "from": "/services/partition-walls",
     "to": "/",
     "code": 301,
