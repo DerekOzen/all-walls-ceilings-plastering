@@ -635,11 +635,12 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
-    "updatedAt": "2026-10-02T01:37:23.497Z",
+    "status": "deleted",
+    "updatedAt": "2026-10-02T06:18:57.082Z",
     "updatedBy": "vipin",
     "createdAt": "2026-10-02T01:37:09.978Z",
-    "createdBy": "vipin"
+    "createdBy": "vipin",
+    "isHome": false
   },
   {
     "id": "pg-41",
