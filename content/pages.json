@@ -1091,8 +1091,9 @@
     "status": "published",
     "createdAt": "2026-10-02T07:16:20.842Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-02T07:19:26.499Z",
-    "updatedBy": "vipin"
+    "updatedAt": "2026-10-02T08:26:25.646Z",
+    "updatedBy": "vipin",
+    "category": "Other"
   },
   {
     "id": "pg-68",
@@ -1107,9 +1108,8 @@
     "status": "published",
     "createdAt": "2026-10-02T07:16:20.842Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-02T08:26:27.451Z",
-    "updatedBy": "vipin",
-    "category": "Other"
+    "updatedAt": "2026-10-02T07:19:26.499Z",
+    "updatedBy": "vipin"
   },
   {
     "id": "pg-69",
@@ -1124,8 +1124,9 @@
     "status": "published",
     "createdAt": "2026-10-02T07:16:20.842Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-02T07:19:26.499Z",
-    "updatedBy": "vipin"
+    "updatedAt": "2026-10-02T08:26:31.915Z",
+    "updatedBy": "vipin",
+    "category": "Other"
   },
   {
     "id": "pg-70",
