@@ -841,7 +841,7 @@
     "status": "published",
     "createdAt": "2026-10-02T07:16:20.842Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-02T09:05:23.874Z",
+    "updatedAt": "2026-10-02T09:05:12.897Z",
     "updatedBy": "vipin",
     "category": "Other"
   },
@@ -858,8 +858,9 @@
     "status": "published",
     "createdAt": "2026-10-02T07:16:20.842Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-02T07:19:26.499Z",
-    "updatedBy": "vipin"
+    "updatedAt": "2026-10-02T09:05:22.893Z",
+    "updatedBy": "vipin",
+    "category": "Other"
   },
   {
     "id": "pg-52",
