@@ -587,11 +587,12 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
-    "updatedAt": "2026-10-02T01:29:10.446Z",
+    "status": "deleted",
+    "updatedAt": "2026-10-02T06:28:53.273Z",
     "updatedBy": "vipin",
     "createdAt": "2026-10-02T01:28:55.766Z",
-    "createdBy": "vipin"
+    "createdBy": "vipin",
+    "isHome": false
   },
   {
     "id": "pg-36",
@@ -636,11 +637,12 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
-    "updatedAt": "2026-10-02T01:32:22.340Z",
+    "status": "deleted",
+    "updatedAt": "2026-10-02T06:28:53.273Z",
     "updatedBy": "vipin",
     "createdAt": "2026-10-02T01:32:22.340Z",
-    "createdBy": "vipin"
+    "createdBy": "vipin",
+    "isHome": false
   },
   {
     "id": "pg-39",
