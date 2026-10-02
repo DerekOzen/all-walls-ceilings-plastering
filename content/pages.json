@@ -607,5 +607,21 @@
     "updatedBy": "vipin",
     "createdAt": "2026-10-02T01:32:22.340Z",
     "createdBy": "vipin"
+  },
+  {
+    "id": "pg-39",
+    "path": "/about",
+    "type": "page",
+    "title": "About Us",
+    "seoTitle": "About All Walls & Ceilings Plastering | How We Work",
+    "seoDescription": "Sydney plasterers, NSW licence 244708C. How a job is assessed before it is quoted, what happens if the cause belongs to another trade, and how handover runs.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "updatedAt": "2026-10-02T01:33:19.379Z",
+    "updatedBy": "vipin",
+    "createdAt": "2026-10-02T01:33:19.379Z",
+    "createdBy": "vipin"
   }
 ]
