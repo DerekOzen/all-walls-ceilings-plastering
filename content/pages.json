@@ -417,11 +417,12 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-02T01:22:57.819Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-02T01:25:41.635Z",
-    "updatedBy": "vipin"
+    "updatedAt": "2026-10-02T06:27:55.153Z",
+    "updatedBy": "vipin",
+    "isHome": false
   },
   {
     "id": "pg-26",
@@ -433,11 +434,12 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-02T01:22:57.819Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-02T01:25:41.635Z",
-    "updatedBy": "vipin"
+    "updatedAt": "2026-10-02T06:27:55.153Z",
+    "updatedBy": "vipin",
+    "isHome": false
   },
   {
     "id": "pg-27",
@@ -449,11 +451,12 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-02T01:22:57.819Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-02T01:25:41.635Z",
-    "updatedBy": "vipin"
+    "updatedAt": "2026-10-02T06:27:55.153Z",
+    "updatedBy": "vipin",
+    "isHome": false
   },
   {
     "id": "pg-28",
@@ -465,11 +468,12 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-02T01:22:57.819Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-02T01:25:41.635Z",
-    "updatedBy": "vipin"
+    "updatedAt": "2026-10-02T06:27:55.153Z",
+    "updatedBy": "vipin",
+    "isHome": false
   },
   {
     "id": "pg-29",
@@ -481,11 +485,12 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-02T01:22:57.819Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-02T01:25:41.635Z",
-    "updatedBy": "vipin"
+    "updatedAt": "2026-10-02T06:27:55.153Z",
+    "updatedBy": "vipin",
+    "isHome": false
   },
   {
     "id": "pg-30",
@@ -497,11 +502,12 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-02T01:22:57.819Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-02T01:25:41.635Z",
-    "updatedBy": "vipin"
+    "updatedAt": "2026-10-02T06:27:55.153Z",
+    "updatedBy": "vipin",
+    "isHome": false
   },
   {
     "id": "pg-31",
@@ -513,11 +519,12 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-02T01:22:57.819Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-02T01:25:41.635Z",
-    "updatedBy": "vipin"
+    "updatedAt": "2026-10-02T06:27:55.153Z",
+    "updatedBy": "vipin",
+    "isHome": false
   },
   {
     "id": "pg-32",
@@ -529,11 +536,12 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-02T01:22:57.819Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-02T01:25:41.635Z",
-    "updatedBy": "vipin"
+    "updatedAt": "2026-10-02T06:27:55.153Z",
+    "updatedBy": "vipin",
+    "isHome": false
   },
   {
     "id": "pg-33",
@@ -545,11 +553,12 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-02T01:22:57.819Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-02T01:25:41.635Z",
-    "updatedBy": "vipin"
+    "updatedAt": "2026-10-02T06:27:55.153Z",
+    "updatedBy": "vipin",
+    "isHome": false
   },
   {
     "id": "pg-34",
@@ -561,11 +570,12 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-02T01:22:57.819Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-02T01:25:41.635Z",
-    "updatedBy": "vipin"
+    "updatedAt": "2026-10-02T06:27:55.153Z",
+    "updatedBy": "vipin",
+    "isHome": false
   },
   {
     "id": "pg-35",
