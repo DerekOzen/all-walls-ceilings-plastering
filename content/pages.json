@@ -623,5 +623,21 @@
     "updatedBy": "vipin",
     "createdAt": "2026-10-02T01:33:19.379Z",
     "createdBy": "vipin"
+  },
+  {
+    "id": "pg-40",
+    "path": "/area-we-serve",
+    "type": "page",
+    "title": "Areas We Serve",
+    "seoTitle": "Areas We Serve | Plastering Across Greater Sydney | All Walls",
+    "seoDescription": "How our Sydney plastering coverage is organised: a NSW index, 32 council pages, 5 suburb pages, and what distance and access change about a job.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "updatedAt": "2026-10-02T01:37:09.978Z",
+    "updatedBy": "vipin",
+    "createdAt": "2026-10-02T01:37:09.978Z",
+    "createdBy": "vipin"
   }
 ]
