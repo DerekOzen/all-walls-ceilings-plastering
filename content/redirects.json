@@ -1,11 +1,5 @@
 [
   {
-    "from": "/area-we-serve/nsw/plasterers-woollahra",
-    "to": "/",
-    "code": 301,
-    "at": "2026-10-02T06:31:31.179Z"
-  },
-  {
     "from": "/area-we-serve/nsw/plasterers-sutherland-shire",
     "to": "/",
     "code": 301,
