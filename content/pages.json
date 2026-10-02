@@ -591,5 +591,21 @@
     "updatedBy": "vipin",
     "createdAt": "2026-10-02T01:31:13.335Z",
     "createdBy": "vipin"
+  },
+  {
+    "id": "pg-38",
+    "path": "/privacy-policy",
+    "type": "page",
+    "title": "Privacy Policy",
+    "seoTitle": "Privacy Policy | All Walls & Ceilings Plastering Sydney",
+    "seoDescription": "How enquiry details and photographs are used, who they may be shared with, how long records are kept, and how to ask for a copy or a deletion by phone.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "updatedAt": "2026-10-02T01:32:22.340Z",
+    "updatedBy": "vipin",
+    "createdAt": "2026-10-02T01:32:22.340Z",
+    "createdBy": "vipin"
   }
 ]
