@@ -350,8 +350,9 @@
     "status": "published",
     "createdAt": "2026-10-02T07:00:47.614Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-02T07:03:15.421Z",
-    "updatedBy": "vipin"
+    "updatedAt": "2026-10-02T08:46:22.019Z",
+    "updatedBy": "vipin",
+    "category": "Other"
   },
   {
     "id": "pg-22",
@@ -433,9 +434,8 @@
     "status": "published",
     "createdAt": "2026-10-02T07:00:47.614Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-02T08:46:25.311Z",
-    "updatedBy": "vipin",
-    "category": "Other"
+    "updatedAt": "2026-10-02T07:03:15.421Z",
+    "updatedBy": "vipin"
   },
   {
     "id": "pg-27",
@@ -450,9 +450,8 @@
     "status": "published",
     "createdAt": "2026-10-02T07:00:47.614Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-02T08:46:30.231Z",
-    "updatedBy": "vipin",
-    "category": "Other"
+    "updatedAt": "2026-10-02T07:03:15.421Z",
+    "updatedBy": "vipin"
   },
   {
     "id": "pg-28",
@@ -467,8 +466,9 @@
     "status": "published",
     "createdAt": "2026-10-02T07:00:47.614Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-02T07:03:15.421Z",
-    "updatedBy": "vipin"
+    "updatedAt": "2026-10-02T08:46:32.398Z",
+    "updatedBy": "vipin",
+    "category": "Other"
   },
   {
     "id": "pg-29",
