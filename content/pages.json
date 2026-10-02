@@ -543,5 +543,21 @@
     "createdBy": "vipin",
     "updatedAt": "2026-10-02T01:25:41.635Z",
     "updatedBy": "vipin"
+  },
+  {
+    "id": "pg-35",
+    "path": "/terms",
+    "type": "page",
+    "title": "Terms & Conditions",
+    "seoTitle": "Terms & Conditions | All Walls & Ceilings Plastering",
+    "seoDescription": "How plastering work is quoted and carried out: what a quote is based on, what counts as a variation, drying time, access and what the price does not include.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "updatedAt": "2026-10-02T01:28:55.766Z",
+    "updatedBy": "vipin",
+    "createdAt": "2026-10-02T01:28:55.766Z",
+    "createdBy": "vipin"
   }
 ]
