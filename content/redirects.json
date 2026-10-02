@@ -402,12 +402,6 @@
     "at": "2026-10-02T06:31:31.179Z"
   },
   {
-    "from": "/services/ceiling-access-panels",
-    "to": "/",
-    "code": 301,
-    "at": "2026-10-02T06:31:31.179Z"
-  },
-  {
     "from": "/services/wet-area-linings",
     "to": "/",
     "code": 301,
