@@ -575,5 +575,21 @@
     "updatedBy": "vipin",
     "createdAt": "2026-10-02T01:30:05.841Z",
     "createdBy": "vipin"
+  },
+  {
+    "id": "pg-37",
+    "path": "/our-work",
+    "type": "page",
+    "title": "Our Work",
+    "seoTitle": "Our Work | What Finished Plastering Should Look Like",
+    "seoDescription": "Photographs of plastering at each stage, from a ceiling stripped to the joists to a plane set flush, and how to judge a finished wall or ceiling yourself.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "updatedAt": "2026-10-02T01:31:13.335Z",
+    "updatedBy": "vipin",
+    "createdAt": "2026-10-02T01:31:13.335Z",
+    "createdBy": "vipin"
   }
 ]
