@@ -1175,8 +1175,9 @@
     "status": "published",
     "createdAt": "2026-10-02T07:16:20.842Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-02T07:19:26.499Z",
-    "updatedBy": "vipin"
+    "updatedAt": "2026-10-02T08:42:40.625Z",
+    "updatedBy": "vipin",
+    "category": "Other"
   },
   {
     "id": "pg-73",
@@ -1207,9 +1208,8 @@
     "status": "published",
     "createdAt": "2026-10-02T07:16:20.842Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-02T08:42:42.778Z",
-    "updatedBy": "vipin",
-    "category": "Other"
+    "updatedAt": "2026-10-02T07:19:26.499Z",
+    "updatedBy": "vipin"
   },
   {
     "id": "pg-75",
