@@ -318,12 +318,6 @@
     "at": "2026-10-02T06:31:31.179Z"
   },
   {
-    "from": "/services/ornate-plaster-restoration",
-    "to": "/",
-    "code": 301,
-    "at": "2026-10-02T06:31:31.179Z"
-  },
-  {
     "from": "/services/make-good-plastering",
     "to": "/",
     "code": 301,
