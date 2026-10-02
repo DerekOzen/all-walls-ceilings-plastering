@@ -651,11 +651,12 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
-    "updatedAt": "2026-10-02T01:33:19.379Z",
+    "status": "deleted",
+    "updatedAt": "2026-10-02T06:28:25.636Z",
     "updatedBy": "vipin",
     "createdAt": "2026-10-02T01:33:19.379Z",
-    "createdBy": "vipin"
+    "createdBy": "vipin",
+    "isHome": false
   },
   {
     "id": "pg-40",
