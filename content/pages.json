@@ -621,11 +621,12 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
-    "updatedAt": "2026-10-02T01:31:13.335Z",
+    "status": "deleted",
+    "updatedAt": "2026-10-02T06:29:09.231Z",
     "updatedBy": "vipin",
     "createdAt": "2026-10-02T01:31:13.335Z",
-    "createdBy": "vipin"
+    "createdBy": "vipin",
+    "isHome": false
   },
   {
     "id": "pg-38",
