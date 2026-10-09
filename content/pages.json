@@ -1252,5 +1252,21 @@
     "createdBy": "vipin",
     "updatedAt": "2026-10-08T09:26:18.838Z",
     "updatedBy": "vipin"
+  },
+  {
+    "id": "pg-79",
+    "path": "/thank-you-full-page",
+    "type": "page",
+    "title": "Thank You | Enquiry Received | All Walls & Ceilings Plastering",
+    "seoTitle": "Thank You | Enquiry Received | All Walls & Ceilings Plastering",
+    "seoDescription": "Your plastering enquiry has been received. What happens next, the five details that shorten the answer, and when to ring instead of waiting for the reply.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "createdAt": "2026-10-09T04:36:02.984Z",
+    "createdBy": "joshua",
+    "updatedAt": "2026-10-09T04:36:02.984Z",
+    "updatedBy": "joshua"
   }
 ]
