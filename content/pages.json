@@ -1255,7 +1255,7 @@
   },
   {
     "id": "pg-79",
-    "path": "/thank-you-full-page",
+    "path": "/thank-you",
     "type": "page",
     "title": "Thank You | Enquiry Received | All Walls & Ceilings Plastering",
     "seoTitle": "Thank You | Enquiry Received | All Walls & Ceilings Plastering",
@@ -1263,10 +1263,11 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-10-09T04:36:02.984Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T04:36:02.984Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-10-09T04:37:08.909Z",
+    "updatedBy": "joshua",
+    "noindex": true
   }
 ]
