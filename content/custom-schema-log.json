@@ -1,0 +1,323 @@
+{
+  "batches": [
+    {
+      "batchId": "csg-mv4h84fd-ec7l",
+      "at": "2026-10-11T23:50:59.689Z",
+      "count": 78,
+      "changes": [
+        {
+          "path": "/",
+          "newRecordId": "SCHEMA-B8452277"
+        },
+        {
+          "path": "/about",
+          "newRecordId": "SCHEMA-9758A695"
+        },
+        {
+          "path": "/area-we-serve",
+          "newRecordId": "SCHEMA-6243CAA1"
+        },
+        {
+          "path": "/area-we-serve/nsw",
+          "newRecordId": "SCHEMA-DAB5E2EE"
+        },
+        {
+          "path": "/area-we-serve/nsw/plasterers-bayside",
+          "newRecordId": "SCHEMA-CF2EE061"
+        },
+        {
+          "path": "/area-we-serve/nsw/plasterers-blacktown",
+          "newRecordId": "SCHEMA-5FBFBAC7"
+        },
+        {
+          "path": "/area-we-serve/nsw/plasterers-blue-mountains",
+          "newRecordId": "SCHEMA-602E7C1C"
+        },
+        {
+          "path": "/area-we-serve/nsw/plasterers-burwood",
+          "newRecordId": "SCHEMA-716E0B73"
+        },
+        {
+          "path": "/area-we-serve/nsw/plasterers-camden",
+          "newRecordId": "SCHEMA-23AB8A62"
+        },
+        {
+          "path": "/area-we-serve/nsw/plasterers-campbelltown",
+          "newRecordId": "SCHEMA-D6DB1F53"
+        },
+        {
+          "path": "/area-we-serve/nsw/plasterers-canada-bay",
+          "newRecordId": "SCHEMA-608C78F8"
+        },
+        {
+          "path": "/area-we-serve/nsw/plasterers-canterbury-bankstown",
+          "newRecordId": "SCHEMA-155F2B06"
+        },
+        {
+          "path": "/area-we-serve/nsw/plasterers-chatswood",
+          "newRecordId": "SCHEMA-9BB69E8E"
+        },
+        {
+          "path": "/area-we-serve/nsw/plasterers-cheltenham",
+          "newRecordId": "SCHEMA-9C6089E8"
+        },
+        {
+          "path": "/area-we-serve/nsw/plasterers-cumberland",
+          "newRecordId": "SCHEMA-479D0C4F"
+        },
+        {
+          "path": "/area-we-serve/nsw/plasterers-fairfield",
+          "newRecordId": "SCHEMA-A6E864D8"
+        },
+        {
+          "path": "/area-we-serve/nsw/plasterers-georges-river",
+          "newRecordId": "SCHEMA-A5C809FD"
+        },
+        {
+          "path": "/area-we-serve/nsw/plasterers-greenwich",
+          "newRecordId": "SCHEMA-09B0A177"
+        },
+        {
+          "path": "/area-we-serve/nsw/plasterers-hawkesbury",
+          "newRecordId": "SCHEMA-08445273"
+        },
+        {
+          "path": "/area-we-serve/nsw/plasterers-hornsby",
+          "newRecordId": "SCHEMA-D1034BC4"
+        },
+        {
+          "path": "/area-we-serve/nsw/plasterers-hunters-hill",
+          "newRecordId": "SCHEMA-54ECD948"
+        },
+        {
+          "path": "/area-we-serve/nsw/plasterers-inner-west",
+          "newRecordId": "SCHEMA-116D25ED"
+        },
+        {
+          "path": "/area-we-serve/nsw/plasterers-ku-ring-gai",
+          "newRecordId": "SCHEMA-6F577E64"
+        },
+        {
+          "path": "/area-we-serve/nsw/plasterers-lane-cove",
+          "newRecordId": "SCHEMA-197FB908"
+        },
+        {
+          "path": "/area-we-serve/nsw/plasterers-lewisham",
+          "newRecordId": "SCHEMA-9A0E6448"
+        },
+        {
+          "path": "/area-we-serve/nsw/plasterers-liverpool",
+          "newRecordId": "SCHEMA-1DEDC9E9"
+        },
+        {
+          "path": "/area-we-serve/nsw/plasterers-mosman",
+          "newRecordId": "SCHEMA-EF0F642C"
+        },
+        {
+          "path": "/area-we-serve/nsw/plasterers-north-sydney",
+          "newRecordId": "SCHEMA-814432BF"
+        },
+        {
+          "path": "/area-we-serve/nsw/plasterers-northern-beaches",
+          "newRecordId": "SCHEMA-3DA47D17"
+        },
+        {
+          "path": "/area-we-serve/nsw/plasterers-parramatta",
+          "newRecordId": "SCHEMA-E9B4B54F"
+        },
+        {
+          "path": "/area-we-serve/nsw/plasterers-penrith",
+          "newRecordId": "SCHEMA-C040A7D4"
+        },
+        {
+          "path": "/area-we-serve/nsw/plasterers-randwick",
+          "newRecordId": "SCHEMA-68281E2F"
+        },
+        {
+          "path": "/area-we-serve/nsw/plasterers-ryde",
+          "newRecordId": "SCHEMA-44682CDD"
+        },
+        {
+          "path": "/area-we-serve/nsw/plasterers-strathfield",
+          "newRecordId": "SCHEMA-0406CD49"
+        },
+        {
+          "path": "/area-we-serve/nsw/plasterers-sutherland-shire",
+          "newRecordId": "SCHEMA-7E424C6F"
+        },
+        {
+          "path": "/area-we-serve/nsw/plasterers-the-hills-shire",
+          "newRecordId": "SCHEMA-5163DE94"
+        },
+        {
+          "path": "/area-we-serve/nsw/plasterers-waverley",
+          "newRecordId": "SCHEMA-C9E10D07"
+        },
+        {
+          "path": "/area-we-serve/nsw/plasterers-willoughby",
+          "newRecordId": "SCHEMA-7407DB8B"
+        },
+        {
+          "path": "/area-we-serve/nsw/plasterers-windsor",
+          "newRecordId": "SCHEMA-4776AF9E"
+        },
+        {
+          "path": "/area-we-serve/nsw/plasterers-wollondilly",
+          "newRecordId": "SCHEMA-A8855D0E"
+        },
+        {
+          "path": "/area-we-serve/nsw/plasterers-woollahra",
+          "newRecordId": "SCHEMA-521DB689"
+        },
+        {
+          "path": "/contact",
+          "newRecordId": "SCHEMA-22F9890E"
+        },
+        {
+          "path": "/our-work",
+          "newRecordId": "SCHEMA-9D64EBD4"
+        },
+        {
+          "path": "/privacy-policy",
+          "newRecordId": "SCHEMA-C4D3A84A"
+        },
+        {
+          "path": "/services",
+          "newRecordId": "SCHEMA-DC5B1476"
+        },
+        {
+          "path": "/services/acoustic-plastering",
+          "newRecordId": "SCHEMA-485DC125"
+        },
+        {
+          "path": "/services/architectural-plasterboard",
+          "newRecordId": "SCHEMA-68068D4F"
+        },
+        {
+          "path": "/services/bulkheads-and-pelmets",
+          "newRecordId": "SCHEMA-2FAAC4F3"
+        },
+        {
+          "path": "/services/ceiling-access-panels",
+          "newRecordId": "SCHEMA-B05CC130"
+        },
+        {
+          "path": "/services/ceiling-installation",
+          "newRecordId": "SCHEMA-74799353"
+        },
+        {
+          "path": "/services/ceiling-repairs",
+          "newRecordId": "SCHEMA-1167BC9B"
+        },
+        {
+          "path": "/services/ceiling-replacement",
+          "newRecordId": "SCHEMA-EE99E78B"
+        },
+        {
+          "path": "/services/commercial-plastering",
+          "newRecordId": "SCHEMA-17E428FC"
+        },
+        {
+          "path": "/services/cornice",
+          "newRecordId": "SCHEMA-6A917A70"
+        },
+        {
+          "path": "/services/fire-rated-plastering",
+          "newRecordId": "SCHEMA-2C5470DB"
+        },
+        {
+          "path": "/services/grid-ceilings",
+          "newRecordId": "SCHEMA-8DE172B9"
+        },
+        {
+          "path": "/services/gyprock-and-plasterboard",
+          "newRecordId": "SCHEMA-DB9A186F"
+        },
+        {
+          "path": "/services/insurance-plaster-repairs",
+          "newRecordId": "SCHEMA-B82A9114"
+        },
+        {
+          "path": "/services/make-good-plastering",
+          "newRecordId": "SCHEMA-671BB258"
+        },
+        {
+          "path": "/services/microcement",
+          "newRecordId": "SCHEMA-44FA8FDD"
+        },
+        {
+          "path": "/services/new-home-plastering",
+          "newRecordId": "SCHEMA-3178EEE4"
+        },
+        {
+          "path": "/services/office-fitout-plastering",
+          "newRecordId": "SCHEMA-9D100DA0"
+        },
+        {
+          "path": "/services/ornate-plaster-restoration",
+          "newRecordId": "SCHEMA-F7FC15B3"
+        },
+        {
+          "path": "/services/partition-walls",
+          "newRecordId": "SCHEMA-DBA8FCB5"
+        },
+        {
+          "path": "/services/renovation-plastering",
+          "newRecordId": "SCHEMA-EE1B1E96"
+        },
+        {
+          "path": "/services/retail-hospitality-plastering",
+          "newRecordId": "SCHEMA-C4F0FA4C"
+        },
+        {
+          "path": "/services/sagging-ceiling-repairs",
+          "newRecordId": "SCHEMA-B996CE72"
+        },
+        {
+          "path": "/services/skim-coating",
+          "newRecordId": "SCHEMA-E0A1C339"
+        },
+        {
+          "path": "/services/solid-plastering",
+          "newRecordId": "SCHEMA-43EE6B6E"
+        },
+        {
+          "path": "/services/square-set-and-shadowline",
+          "newRecordId": "SCHEMA-B81C8706"
+        },
+        {
+          "path": "/services/strata-plastering",
+          "newRecordId": "SCHEMA-5EFBFBFD"
+        },
+        {
+          "path": "/services/suspended-ceilings",
+          "newRecordId": "SCHEMA-4255040A"
+        },
+        {
+          "path": "/services/venetian-plaster",
+          "newRecordId": "SCHEMA-946B2210"
+        },
+        {
+          "path": "/services/vermiculite-ceiling-renewal",
+          "newRecordId": "SCHEMA-D9A3B44A"
+        },
+        {
+          "path": "/services/wall-plastering-and-repairs",
+          "newRecordId": "SCHEMA-0E2EC701"
+        },
+        {
+          "path": "/services/water-damage-ceiling-repairs",
+          "newRecordId": "SCHEMA-6579A9CD"
+        },
+        {
+          "path": "/services/wet-area-linings",
+          "newRecordId": "SCHEMA-74B49B58"
+        },
+        {
+          "path": "/terms",
+          "newRecordId": "SCHEMA-6A9882F8"
+        }
+      ]
+    }
+  ]
+}
