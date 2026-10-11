@@ -10,11 +10,13 @@
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
     "status": "published",
-    "updatedAt": "2026-10-02T09:44:28.618Z",
-    "updatedBy": "vipin",
+    "updatedAt": "2026-10-11T23:22:05.556Z",
+    "updatedBy": "sebastian",
     "createdAt": "2026-10-02T06:36:19.050Z",
     "createdBy": "vipin",
-    "isHome": true
+    "isHome": true,
+    "featuredImage": "/uploads/allwalls-plastering-commercial-ceiling-lining-sydney.jpg",
+    "featuredImageAlt": "Commercial ceiling in a Sydney fit-out fully sheeted in plasterboard with every joint taped and topped, air-conditioning cassettes installed and a plasterer on a step ladder finishing a wall"
   },
   {
     "id": "pg-2",
