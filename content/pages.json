@@ -197,9 +197,11 @@
     "status": "published",
     "createdAt": "2026-10-02T06:47:51.063Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-08T06:53:58.575Z",
-    "updatedBy": "vipin",
-    "category": "Contact"
+    "updatedAt": "2026-10-11T23:30:16.060Z",
+    "updatedBy": "sebastian",
+    "category": "Contact",
+    "featuredImage": "/uploads/allwalls-doorway-and-wall-set-flush.jpg",
+    "featuredImageAlt": "Doorway and the surrounding wall set flush and finished, looking through to the next room"
   },
   {
     "id": "pg-13",
