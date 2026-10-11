@@ -10,5 +10,10 @@
   "postcode": "2767",
   "country": "AU",
   "areaServed": "Sydney",
-  "openingHours": "Monday - 8 am–5 pm Tuesday - 8 am–5 pm Wednesday - 8 am–5 pm Thursday - 8 am–5 pm Friday - 8 am–5 pm Saturday - Open 24 hours Sunday - Open 24 hours"
+  "openingHours": "Monday - 8 am–5 pm Tuesday - 8 am–5 pm Wednesday - 8 am–5 pm Thursday - 8 am–5 pm Friday - 8 am–5 pm Saturday - Open 24 hours Sunday - Open 24 hours",
+  "priceRange": "$$-$$$$",
+  "latitude": "-33.77359693527804",
+  "longitude": "150.87784879999998",
+  "logo": "https://allwallsplastering.com.au/uploads/awc_header_compact_color.svg",
+  "image": "https://allwallsplastering.com.au/uploads/allwalls-plastering-commercial-ceiling-lining-sydney.jpg"
 }
