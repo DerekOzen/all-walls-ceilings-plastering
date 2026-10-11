@@ -31,9 +31,11 @@
     "status": "published",
     "createdAt": "2026-10-02T06:47:51.063Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-09T04:18:34.262Z",
-    "updatedBy": "vipin",
-    "category": "About"
+    "updatedAt": "2026-10-11T23:22:24.514Z",
+    "updatedBy": "sebastian",
+    "category": "About",
+    "featuredImage": "/uploads/allwalls-ceiling-and-bulkhead-coated.jpg",
+    "featuredImageAlt": "Ceiling and bulkhead sheeted and coated, the joints spread wide ready for sanding"
   },
   {
     "id": "pg-3",
