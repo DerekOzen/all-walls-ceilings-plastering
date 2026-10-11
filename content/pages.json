@@ -50,9 +50,11 @@
     "status": "published",
     "createdAt": "2026-10-02T06:47:51.063Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-08T06:03:05.794Z",
-    "updatedBy": "vipin",
-    "category": "Services"
+    "updatedAt": "2026-10-11T23:30:35.900Z",
+    "updatedBy": "sebastian",
+    "category": "Services",
+    "featuredImage": "/uploads/allwalls-insulation-between-studs-behind-the-lining.jpg",
+    "featuredImageAlt": "Insulation held between the studs on one side and the finished lining set smooth on the other"
   },
   {
     "id": "pg-4",
