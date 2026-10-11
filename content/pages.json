@@ -159,8 +159,10 @@
     "status": "published",
     "createdAt": "2026-10-02T06:47:51.063Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-08T06:40:00.407Z",
-    "updatedBy": "vipin"
+    "updatedAt": "2026-10-11T23:31:09.814Z",
+    "updatedBy": "sebastian",
+    "featuredImage": "/uploads/allwalls-wall-opened-back-to-masonry.jpg",
+    "featuredImageAlt": "Room with the ceiling set and one wall opened back to the masonry, with someone clearing up below"
   },
   {
     "id": "pg-10",
